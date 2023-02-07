@@ -12,6 +12,5 @@ int main() {
     cout << "name :" << name << endl; 
     cout << "a: " << a << endl;
 
-
     return 0;
 }
